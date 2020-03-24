@@ -1,5 +1,5 @@
 # RTS20200323
-![https://fkarticuno.github.io/CodingPortfolio/Assets/Images/24.png]
+![image](https://fkarticuno.github.io/CodingPortfolio/Assets/Images/24.png)
 Here's what we'd like to see for an at-home exercise:
 ### Using React and Redux:
 - Build an application that lets the user search the Hacker News Algolia API and displays a list of results (https://hn.algolia.com/api)
