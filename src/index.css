@@ -29,6 +29,7 @@ img {
   min-height: calc(50vh - 70px);
   max-height: calc(50vh - 70px);
   overflow-x: auto;
+  border-radius: 15px;
 }
 #foot {
   height: 50px;
