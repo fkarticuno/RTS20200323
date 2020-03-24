@@ -16,7 +16,7 @@ function App() {
           axios.get(`http://hn.algolia.com/api/v1/search?query=${query}`).then(
           (response) => {
             //console.log(response.data.hits[0])
-            document.getElementById('results').innerText = `Found ${response.data.hits.length} Results`
+            document.getElementById('results').innerText = `     Found ${response.data.hits.length} Results`
             for (var i = 0; i < response.data.hits.length; i++){
               data.push(response.data.hits[i].title)
               var newDiv = document.createElement('div');
