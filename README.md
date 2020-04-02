@@ -12,5 +12,5 @@ We're looking to see if what you know in React and Redux and querying an API. We
 Let us know if you have any questions! If you're good to go, please send us back your project at your convenience (please upload your project to a public git repository, such as Github).
 
 ## Links
-- [Heroku](http://lychee-tart-79675.herokuapp.com/) > Fail state resolved
+- [Heroku](http://rtslabs20200323.herokuapp.com/) > Fail state resolved
 - [GitHub](https://github.com/fkarticuno/RTS20200323)
